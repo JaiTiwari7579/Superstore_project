@@ -41,7 +41,7 @@ This is an end-to-end data analytics project where raw data is transformed into 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot(70).png)
 
 ---
 
